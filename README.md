@@ -4,10 +4,10 @@
 This repository contains the implementation of a Snap Filter using facial landmarks detection. The Snap Filter applies various fun effects and overlays to faces detected in images or video streams. It utilizes the MediaPipe library for facial landmarks detection, enabling the accurate placement of filters on faces.
 
 ## Features
-Facial Landmarks Detection: Utilizes MediaPipe's facial landmarks detection to accurately locate key points on detected faces.
-Snap Filters: Applies a variety of fun filters and overlays on faces, enhancing images or video streams with creative effects.
-Real-time Application: Can be used in real-time with a webcam feed, allowing users to interact with the filters instantly.
-Customizable: Users can modify and create their own filters by leveraging the facial landmarks provided by the MediaPipe library.
+- Facial Landmarks Detection: Utilizes MediaPipe's facial landmarks detection to accurately locate key points on detected faces.
+- Snap Filters: Applies a variety of fun filters and overlays on faces, enhancing images or video streams with creative effects.
+- Real-time Application: Can be used in real-time with a webcam feed, allowing users to interact with the filters instantly.
+- Customizable: Users can modify and create their own filters by leveraging the facial landmarks provided by the MediaPipe library.
 
 ## Installation
 1. Install Jupyter Notebook:
